@@ -18,6 +18,9 @@ Before building the model, the dataset undergoes essential preprocessing steps t
 
 ## Model Development
 
+![imag 1_11541](https://github.com/princebhatt9588/Flight-Price-Prediction-Project/assets/117750531/65922545-bce0-45a5-bd12-11e9efde9821)
+
+
 The model itself is constructed using the powerful Random Forest Regressor from the scikit-learn library. The model undergoes training using the preprocessed data and is assessed based on performance metrics such as mean squared error and R-squared. The results demonstrate that the model possesses a remarkable ability to predict flight prices with a high degree of accuracy.
 
 ## Project Outcomes
